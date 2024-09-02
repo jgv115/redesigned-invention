@@ -1,0 +1,8 @@
+.generatorInput {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 16px;
+    margin: 0 auto;
+}
